@@ -1,7 +1,7 @@
    setclipboard("https://discord.gg/aA8wEqKUhg")
 game.StarterGui:SetCore("SendNotification",{
-        Title = Join My Discord,
-        Text = Discord Copied,
+        Title = "Join My Discord",
+        Text = "Discord Copied",
         Duration = 999,
     })
 
