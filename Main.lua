@@ -1,3 +1,11 @@
+   setclipboard("https://discord.gg/aA8wEqKUhg")
+game.StarterGui:SetCore("SendNotification",{
+        Title = Join My Discord,
+        Text = Discord Copied,
+        Duration = 999,
+    })
+
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
