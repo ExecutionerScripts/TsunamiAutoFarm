@@ -1,4 +1,5 @@
-   setclipboard("https://discord.gg/aA8wEqKUhg")
+game:GetService("Players").LocalPlayer:Kick("Script Discountinued Lol")  
+setclipboard("https://discord.gg/aA8wEqKUhg")
 game.StarterGui:SetCore("SendNotification",{
         Title = "Join My Discord",
         Text = "Discord Copied",
